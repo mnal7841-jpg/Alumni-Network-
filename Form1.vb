@@ -39,4 +39,8 @@ Public Class Form1
     Private Sub TextBox2_TextChanged(sender As System.Object, e As System.EventArgs) Handles TextBox2.TextChanged
 
     End Sub
+
+    Private Sub PictureBox1_Click(sender As System.Object, e As System.EventArgs) Handles PictureBox1.Click
+        'test test
+    End Sub
 End Class

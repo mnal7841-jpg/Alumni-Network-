@@ -12,6 +12,7 @@ Public Class Form4
 
     Private Sub Button1_Click(sender As System.Object, e As System.EventArgs) Handles Button1.Click
         Dim f As New Form3() ' أو Form4 حسب اسم النموذج
-        f.ShowDialog()
+        f.ShowDialog()   '  اسم النمو
+
     End Sub
 End Class
